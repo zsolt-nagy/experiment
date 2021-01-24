@@ -6,6 +6,7 @@ Alkalmazott technológiák:
 
 - HTML5
 - CSS3
+- JavaScript
 
 ## Hosztolás
 
