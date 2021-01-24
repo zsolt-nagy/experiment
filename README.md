@@ -4,8 +4,8 @@ Az első portfólió oldalam.
 
 Alkalmazott technológiák: 
 
-- html5
-- css3
+- HTML5
+- CSS3
 
 ## Hosztolás
 
